@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hassan Ahmed.
 - 👀 I’m the CTO and co-founder of respond.io - a business messaging CRM.
 - 🌱 In my past life, I was an avid coder.
-- 📫 A rather useless homepage: [hassan.is](https://hassan.is).
+- 📫 My rather useless homepage: [hassan.is](https://hassan.is).
 - 📃 [LinkedIn](https://www.linkedin.com/in/zahassanyum/)
 
 <!---
